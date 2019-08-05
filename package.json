@@ -1,0 +1,21 @@
+{
+  "name": "interstelaris",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "scripts/start.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "mongoose": "^5.6.8",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "Andy",
+  "license": "MIT"
+}
