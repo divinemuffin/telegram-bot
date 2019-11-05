@@ -5,7 +5,7 @@
   "main": "scripts/start.js",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "mongoose": "^5.6.8",
+    "mongoose": "^5.7.5",
     "node-telegram-bot-api": "^0.30.0"
   },
   "devDependencies": {},
